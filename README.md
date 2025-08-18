@@ -1,8 +1,4 @@
-# Ingsw3
-Práctica de Git básico
-
-#Contenido
--Practicar Git basico
--Usar Text Mate
-
-Ultima Actualizacion: 18/8/25
+## Nueva Funcionalidad
+- Esta sección fue agregada desde la rama newFeature
+- Prueba de trabajo con ramas
+- Cambios independientes de la rama main
